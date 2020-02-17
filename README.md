@@ -16,6 +16,7 @@ References:
 
 https://developers.google.com/identity/protocols/OAuth2ServiceAccount#formingclaimset
 https://developers.google.com/gmail/api/auth/scopes
+http://googleapis.github.io/google-api-python-client/docs/dyn/gmail_v1.users.messages.html#get
 
 ## Manual steps
 
